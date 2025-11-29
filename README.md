@@ -1,1 +1,3 @@
-Hello, I am @BJCulver. I am a Master's of Science in Computational Science student at George Mason University and Data Analyst with the Fairfax County Government. I am searching for work in data engineering or analytics.
+Hello, I am @BJCulver. 
+
+I am a full stack Software Engineer currently working for Datavant. I am experienced in working with healthcare data, challenging legacy APIs and systems, and building robust data-focused applications. My educational background includes a Master's degree focusing on data science. I am a passionate climber, hiker, and musician. This page exists to host personal projects.
